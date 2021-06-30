@@ -1,0 +1,52 @@
+body {
+    background-repeat: no-repeat;
+     background-size: cover;
+    background-image: url(link.jpeg);
+}
+
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+
+  a{
+      color: white;
+  }
+
+  .title {
+      text-align: center;
+      color: rgb(43, 255, 0);
+      font-size: 50px;
+  }
+
+  .smol-text {
+      text-align: center;
+      color: rgb(43, 255, 0);
+      font-size: 25px;
+      
+  }
+
+  .para{
+      text-align: center;
+      color: rgb(43, 255, 0);
+      font-size: 25px;
+  }
+
+
+.self {
+    text-align: left;
+    color: rgb(43, 255, 0);
+}
+
+.contact {
+color: rgb(43, 255, 0);
+}
